@@ -1,2 +1,2 @@
 # Predicting-Students-Success-in-Online-Learning
-This Project analyzes student success prediction in online courses using synthetic data generated from CTGAN. It identifies at-risk students through clustering and predictive modeling.
+This Project presents a comprehensive analysis for predicting student success in online courses using synthetic data generation with CTGAN, hypothesis testing for generated data, clustering analysis, and predictive modeling techniques. The aim is to identify at-risk students and provide early interventions to enhance their learning outcomes. We generate synthetic data using CTGAN and compare its correlation with the original data to ensure that key relationships between features are preserved.
